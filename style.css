@@ -1,15 +1,19 @@
 body {
     font-family: Arial, sans-serif;
-    background-image: linear-gradient(to right, rgb(228, 111, 33), rgb(255, 201, 138), rgb(228, 111, 33));
-    margin: 0;
-    padding: 0;
+    background-image: url("fundo.png");
+    background-size: cover;
 }
 
 h1 {
     text-align: center;
     margin-top: 30px;
-    font-size: 28px;
-    color: #fff;
+    font-size: 35px;
+    color: #8d610e;
+}
+h2{
+    text-align: center;
+    margin-top: 2px;
+    font-size: 27px;
 }
 
 .container {
