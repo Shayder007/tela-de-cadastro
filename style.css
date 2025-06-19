@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background-image: linear-gradient(to right, rgb(228, 111, 33), rgb(255, 201, 139), rgb(228, 111, 33));
+    background-image: linear-gradient(to right, rgb(228, 111, 33), rgb(255, 201, 138), rgb(228, 111, 33));
     margin: 0;
     padding: 0;
 }
@@ -19,7 +19,7 @@ h1 {
     border-radius: 10px;
     display: flex;
     justify-content: center;
-    background-image: linear-gradient(to right, rgb(255, 255, 255), rgb(236, 234, 234), rgb(255, 255, 255));
+    background-image: linear-gradient(to right, rgb(226, 223, 223), rgb(255, 255, 255), rgb(226, 223, 223));
 }
 
 .form {
