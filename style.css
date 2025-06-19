@@ -60,3 +60,12 @@ button:hover {
     background-color: #e98e07;
     opacity: 0.67;
 }
+footer{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: block;
+    text-align: center;
+    a:link {
+    color: rgb(0, 0, 0);
+}
+
+}
